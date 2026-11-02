@@ -51,6 +51,9 @@
 - ⚡ **[Lysiq AI (Lycic AI)](https://github.com/Aritra-rickc2004/Lysiq-AI)** — Event-driven incident triage SaaS decoupling ticket ingestion via **Inngest durable step functions** (`<80ms` ACK) with Gemini classification and PostgreSQL GIN-indexed array-overlap (`&&`) specialist routing.  
   *Stack: TypeScript • React 18 • Node.js • Express 5 • Supabase (PostgreSQL) • Inngest • Gemini API*
 
+- 🩺 **[CuraCore HealthBot](https://github.com/BlackClover-pvt/CuraCore)** — Conversational clinical AI assistant running real-time RAG over medical literature via `FAISS` vector search, persistent multi-turn context memory buffers, and Google Maps API healthcare facility routing.  
+  *Stack: Python • LangChain • Gemini API • FAISS • Firebase • React.js • Streamlit*
+
 ---
 
 ### 📬 Connect & Opportunities
