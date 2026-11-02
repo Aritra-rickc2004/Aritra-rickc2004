@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero.svg" alt="Aritra Chowdhury — Developer Identity" width="100%" />
+  <img src="./ide.svg" alt="Aritra Chowdhury — TypeScript Developer Identity" width="100%" />
 </p>
 
 <p align="center">
